@@ -1,3 +1,9 @@
+//ELE495 BITIRME PROJESI GRUP 7
+
+//2021-2022 Yaz Dönemi Bitirme Projesi
+
+// 03.07.2022
+
 #include<SoftwareSerial.h>
 
 int x_c, y_c;
