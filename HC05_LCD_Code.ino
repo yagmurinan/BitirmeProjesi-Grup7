@@ -1,6 +1,6 @@
 /*  Bluetooth AT Commands
  *  Uğur ALTINIŞIK
- *  Nazif Orhun TEKÇİ
+ *  Nazif Orhun TEKCİ
  *  Bu program Bluetooth modul uzerinden alinan verilerin LCD panel uzerinde gorsellestirilmesini icerir.
  */
 
