@@ -1,4 +1,4 @@
-# BitirmeProjesi Grup7
+# Bitirme Projesi Grup 7
 2021-2022 Yaz Dönemi ELE 495 BİTİRME PROJESİ
 
 İKİ BOYUTLU TOP STABİLİZASYON PLATFORMU
