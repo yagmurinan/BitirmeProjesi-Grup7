@@ -1,5 +1,6 @@
 /*  Bluetooth AT Commands
  *  Uğur ALTINIŞIK
+ *  Nazif Orhun TEKCİ
  *  Bu program Bluetooth Modulu ayar modunun yuklenmesini ve degistirilmesine olanak saglanmasini icerir.
  */
 
